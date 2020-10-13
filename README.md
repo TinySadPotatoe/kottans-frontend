@@ -8,3 +8,6 @@ Now I have learned a few new things about git. It was interesting and I'm sure t
 I used to work with Linux, but some things - new for me. I hope, what learn even more new. HTTP - it's hard, many new definitions. But I think that over time I will understand this much better.
 
 
+## Git Collaboration
+It was not so difficult to get used to the huge number of examples.
+I am sure I will often refer to this section for clarifications.
